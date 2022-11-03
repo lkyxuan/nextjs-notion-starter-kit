@@ -11,15 +11,15 @@ export default siteConfig({
   // basic site info (required)
   name: 'Fewunderstand',
   domain: 'https://cyberight.notion.site/Fewunderstand-28c561b622a1464fbac7b9269c64939d',
-  author: '0xm',
+  author: '0xmiracle',
 
   // open graph metadata (optional)
   description: 'Example Next.js Notion Starter Kit Site',
 
   // social usernames (optional)
   twitter: '0xmiracle',
-  github: 'lkyx',
-  linkedin: '',
+  github: 'lkyxuan',
+  linkedin: 'miracle-lee-1450b9134',
   // newsletter: '#', // optional newsletter URL
   // youtube: '#', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
 
